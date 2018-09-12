@@ -2,7 +2,7 @@ import requests
 
 # Set the request parameters
 url = 'https://ignetworks.zendesk.com/agent/dashboard/api/v2/groups.json'
-user = 'gcuenya@ignetworks.com'
+user = 'noc@ignetworks.com'
 pwd = '*****'
 
 # Do the HTTP get request
