@@ -15,8 +15,8 @@ payload = json.dumps(data)
 
 # Set the request parameters
 url = 'https://ignetworks.zendesk.com/api/v2/tickets.json'
-user = 'gcuenya@ignetworks.com'
-pwd = 'Chvuoya6'
+user = 'noc@ignetworks.com'
+pwd = '******'
 headers = {'content-type': 'application/json'}
 
 # Do the HTTP post request
